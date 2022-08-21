@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=beryllium
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=POCO F1
+ro.product.bootimage.name=beryllium
+ro.bootimage.build.date=Sun Aug 21 15:26:50 UTC 2022
+ro.bootimage.build.date.utc=1661095610
+ro.bootimage.build.fingerprint=Xiaomi/beryllium/beryllium:10/QKQ1.190828.002/V12.0.3.0.QEJMIXM:user/release-keys
+ro.bootimage.build.id=SQ3A.220705.004
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=1661095755
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
